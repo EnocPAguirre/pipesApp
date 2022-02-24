@@ -11,4 +11,10 @@ export class AppComponent {
   obj = {
     nombre: 'Enoc'
   }
+
+  mostrarNombre(){
+    console.log(this.nombre)
+    console.log(this.valor)
+    console.log(this.obj)
+  }
 }
