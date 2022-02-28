@@ -12,7 +12,7 @@ import {MenubarModule} from 'primeng/menubar'
     CommonModule,
     ButtonModule,
     CardModule,
-    MenubarModule
+    MenubarModule,
   ],
   exports: [
     ButtonModule,

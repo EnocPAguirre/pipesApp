@@ -10,7 +10,8 @@ import { PrimeNgModule } from '../prime-ng/prime-ng.module';
     PrimeNgModule
   ], 
   exports: [
-    MenuComponent
+    MenuComponent,
+    PrimeNgModule
   ]
 })
 export class SharedModule { }
